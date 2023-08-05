@@ -1,0 +1,24 @@
+{
+    "manifest": {
+        "version": "1.0.0",
+        "name": "n0tEll10T's Skype Sound Theme",
+        "author": "n0tell10t",
+        "license": ""
+    },
+    "raws": {
+        "call_calling": "https:\/\/github.com\/n0tGit\/Aliucord-Skype-SFX\/raw\/main\/call_calling",
+        "call_ringing": "https:\/\/github.com\/n0tGit\/Aliucord-Skype-SFX\/raw\/main\/call_ringing",
+        "deafen": "https:\/\/github.com\/n0tGit\/Aliucord-Skype-SFX\/raw\/main\/deafen",
+        "mute": "https:\/\/github.com\/n0tGit\/Aliucord-Skype-SFX\/raw\/main\/mute",
+        "undeafen": "https:\/\/github.com\/n0tGit\/Aliucord-Skype-SFX\/raw\/main\/undeafen",
+        "unmute": "https:\/\/github.com\/n0tGit\/Aliucord-Skype-SFX\/raw\/main\/unmute",
+        "reconnect": "https:\/\/github.com\/n0tGit\/Aliucord-Skype-SFX\/raw\/main\/reconnect",
+        "stream_ended": "https:\/\/github.com\/n0tGit\/Aliucord-Skype-SFX\/raw\/main\/stream_ended",
+        "stream_started": "https:\/\/github.com\/n0tGit\/Aliucord-Skype-SFX\/raw\/main\/stream_started",
+        "stream_user_joined": "https:\/\/github.com\/n0tGit\/Aliucord-Skype-SFX\/raw\/main\/stream_user_joined",
+        "stream_user_left": "https:\/\/github.com\/n0tGit\/Aliucord-Skype-SFX\/raw\/main\/stream_user_left",
+        "user_join": "https:\/\/github.com\/n0tGit\/Aliucord-Skype-SFX\/raw\/main\/user_join",
+        "user_leave": "https:\/\/github.com\/n0tGit\/Aliucord-Skype-SFX\/raw\/main\/user_leave",
+        "user_moved": "https:\/\/github.com\/n0tGit\/Aliucord-Skype-SFX\/raw\/main\/user_moved"
+    }
+}
