@@ -8,6 +8,26 @@ This guide assumes the following:
 - You have the [Themer](https://github.com/Vendicated/AliucordPlugins/tree/main/Themer) plugin installed.
 - (**Recommended**) You have the [DedicatedPluginSettings](https://github.com/Vendicated/AliucordPlugins/tree/main/DedicatedPluginSettings) plugin installed.
 
+"Automatic" method:
+This is not automatic per-se, but it saves you the need for copying and pasting each link.
+1. Download the JSON file [here](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/n0tGit/Aliucord-Skype-SFX/raw/main/SkypeSoundTheme.json). Alternatively, you can check the raw file [here](https://github.com/n0tGit/Aliucord-Skype-SFX/raw/main/SkypeSoundTheme.json).
+2. Go to your Downloads folder.
+3. Move SkypeSoundTheme.json to /sdcard/Aliucord/Themes.
+4. Open Aliucord.
+5. Open your channel tab.
+6. Tap on your avatar.
+7. Follow the following steps (if you don't have DedicatedPluginSettings, start from step I; if you do have it, start from step IV):
+   - i. Go to Plugins.
+   - ii. Search "Themer".
+   - iii. Tap "Settings".
+   - iv. Tap "Enable Custom Sounds". If it's already enabled, skip this.
+         - Aliucord may ask you if you want to restart. **Don't do it yet**.
+   - v. Enable n0tEll10T's Skype Sound Theme.
+   - vi. Aliucord will ask you if you want to restart. Tap "RESTART".
+
+This theme may conflict with other themes that have sounds. Remove the conflicting sounds in either theme's sound settings.
+
+Manual method:
 1. Open your channel tab.
 2. Tap on your avatar.
 3. Follow the following steps (if you don't have DedicatedPluginSettings, start from step I; if you do have it, start from step IV):
