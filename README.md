@@ -10,7 +10,7 @@ These guides will assume the following:
 
 ## "Automatic" method:
 This is not automatic per-se, but it saves you the need for copying and pasting each link.
-1. Download the JSON file [here](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/n0tGit/Aliucord-Skype-SFX/raw/main/SkypeSoundTheme.json). Alternatively, you can check the raw file [here](https://github.com/n0tGit/Aliucord-Skype-SFX/raw/main/SkypeSoundTheme.json) - I created this link using [Minhas Kamal](https://github.com/MinhasKamal)'s [DownGit](https://github.com/MinhasKamal/DownGit) website.
+1. Download the JSON file [here](https://github.com/n0tGit/Aliucord-Skype-SFX/raw/main/SkypeSoundTheme.json). Alternatively, you can check the raw file [here](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/n0tGit/Aliucord-Skype-SFX/raw/main/SkypeSoundTheme.json) - I created this link using [Minhas Kamal](https://github.com/MinhasKamal)'s [DownGit](https://github.com/MinhasKamal/DownGit) website.
 2. Go to your Downloads folder.
 3. Move SkypeSoundTheme.json to /sdcard/Aliucord/Themes.
 4. Open Aliucord.
